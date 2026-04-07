@@ -58,6 +58,7 @@ This system answers both using autonomous drone navigation and machine learning.
 
 ## 🏗️ System Architecture
 
+```text
 ┌─────────────────────────────────────────┐      HTTP/REST
 │         FRONTEND (Next.js 16)           │ ◄──────────────► ┌──────────────────────────┐
 │                                         │                   │   BACKEND (FastAPI)       │
@@ -73,6 +74,7 @@ This system answers both using autonomous drone navigation and machine learning.
 │  ├── Pollution diffusion physics        │                   │  Output: top-3 origins    │
 │  └── Toxicity color mapping             │                   │                           │
 └─────────────────────────────────────────┘                   └──────────────────────────┘
+```
 
 ---
 
@@ -170,6 +172,7 @@ python train_models.py      # retrains and overwrites .pkl files
 
 ## 📁 Project Structure
 
+```text
 prometheus-river-surveillance/
 │
 ├── app/                          # Next.js App Router
@@ -211,6 +214,7 @@ prometheus-river-surveillance/
 ├── LICENSE
 ├── package.json
 └── README.md
+```
 
 ---
 
