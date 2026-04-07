@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 PROMETHEUS
+#  PROMETHEUS
 ### Autonomous River Pollution Surveillance System
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -264,14 +264,9 @@ It covers the motivation, literature review, system architecture, ML performance
 
 | Name | Reg. No. | Branch |
 |---|---|---|
-| Ainakota Nandini | 23BAI10531 | CSE (AI & ML) |
-| Thilak Raaj Ganesan | 23BAI10724 | CSE (AI & ML) |
-| Priyansh Bansal | 23BAI10743 | CSE (AI & ML) |
-| Hitesh Kumar | 23BCE10038 | CSE (Core) |
-| Purab B Rao | 23BAC10016 | ECE (AI & Cybernetics) |
-| Cheruvu Surya Sai Anushka | 23BCY10213 | CSE (Cyber Security) |
 
-**Supervisor:** Dr. Vayunandana Kishore P, VIT Bhopal University
+| Purab B Rao | 23BAC10016 | ECE (AI & Cybernetics) |
+| Thilak Raaj Ganesan | 23BAI10724 | CSE (AI & ML) |
 
 ---
 
