@@ -270,6 +270,7 @@ It covers the motivation, literature review, system architecture, ML performance
 |---|---|---|
 
 | Purab B Rao | 23BAC10016 | ECE (AI & Cybernetics) |
+
 | Thilak Raaj Ganesan | 23BAI10724 | CSE (AI & ML) |
 
 ---
